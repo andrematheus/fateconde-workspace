@@ -1,0 +1,6 @@
+[submodule "Fateconde"]
+	path = Fateconde
+	url = git@bitbucket.org:andrematheus/fatecondeapp.git
+[submodule "PointOfInterestFramework"]
+	path = PointOfInterestFramework
+	url = git@bitbucket.org:andrematheus/pointofinterestframework.git
