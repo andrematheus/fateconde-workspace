@@ -10,7 +10,4 @@
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
    </FileRef>
-   <FileRef
-      location = "group:Fateconde/Fateconde.xcodeproj">
-   </FileRef>
 </Workspace>
