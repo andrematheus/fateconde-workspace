@@ -10,12 +10,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/MapboxViewController.swift"
-            timestampString = "547666812.488642"
+            timestampString = "549235408.544072"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "73"
             endingLineNumber = "73"
-            landmarkName = "mapView(_:regionDidChangeAnimated:)"
+            landmarkName = "drawBuildings(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

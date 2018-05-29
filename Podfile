@@ -5,5 +5,5 @@ workspace 'Fateconde'
 project 'Fateconde/Fateconde.xcodeproj'
 
 target 'Fateconde' do
-	pod 'Mapbox-iOS-SDK', '~> 4.0'
+	pod 'Mapbox-iOS-SDK', '~> 4.0.1'
 end
