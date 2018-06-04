@@ -26,12 +26,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PointOfInterestFramework/PointOfInterest/GeoJsonFile.swift"
-            timestampString = "549258361.093236"
+            timestampString = "549763950.4438961"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "67"
-            endingLineNumber = "67"
-            landmarkName = "encode(to:)"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "init(from:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
@@ -42,13 +42,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PointOfInterestFramework/PointOfInterest/GeoJsonFile.swift"
-            timestampString = "549258361.094071"
+            timestampString = "549763950.444509"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "72"
-            endingLineNumber = "72"
-            landmarkName = "CodingKeys"
-            landmarkType = "13">
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -72,13 +72,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "PointOfInterestFramework/PointOfInterest/PointsOfInterest.swift"
-            timestampString = "549660429.378958"
+            timestampString = "549763950.444674"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "134"
-            endingLineNumber = "134"
-            landmarkName = "init(pointsOfInterest:buildings:routes:)"
-            landmarkType = "7">
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "planImage"
+            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -87,29 +87,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "PointOfInterestFramework/PointOfInterest/PointsOfInterest.swift"
-            timestampString = "549660429.385865"
+            filePath = "Fateconde/Fateconde/Mapping/PointOfInterestFeatures.swift"
+            timestampString = "549763950.445115"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "138"
-            endingLineNumber = "138"
-            landmarkName = "init(pointsOfInterest:buildings:routes:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "PointOfInterestFramework/PointOfInterest/PointsOfInterest.swift"
-            timestampString = "549660429.386075"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "133"
-            endingLineNumber = "133"
-            landmarkName = "init(pointsOfInterest:buildings:routes:)"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "applyTo(_:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
