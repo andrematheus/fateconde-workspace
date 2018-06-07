@@ -72,7 +72,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/Mapping/PointOfInterestFeatures.swift"
-            timestampString = "549952967.104641"
+            timestampString = "550034656.300668"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "222"
@@ -88,11 +88,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/ViewController.swift"
-            timestampString = "549952967.104738"
+            timestampString = "550034656.300833"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
             landmarkName = "selectedPoi"
             landmarkType = "24">
          </BreakpointContent>
@@ -104,7 +104,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/BottomSheetViewController.swift"
-            timestampString = "549952967.104807"
+            timestampString = "550031337.63607"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "165"
@@ -120,7 +120,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/BottomSheetViewController.swift"
-            timestampString = "549952967.1054569"
+            timestampString = "550031337.636622"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "182"
@@ -136,7 +136,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/BottomSheetViewController.swift"
-            timestampString = "549952967.1057971"
+            timestampString = "550031337.6370929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "169"
@@ -152,13 +152,61 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/Mapping/MapboxViewController.swift"
-            timestampString = "549952967.106118"
+            timestampString = "550034656.301201"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "110"
-            endingLineNumber = "110"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
             landmarkName = "drawFeatures(_:)"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fateconde/Fateconde/Mapping/MapboxViewController.swift"
+            timestampString = "550034656.301318"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "showLevel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fateconde/Fateconde/Mapping/MapboxViewController.swift"
+            timestampString = "550034656.30176"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "showLevel(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fateconde/Fateconde/ViewController.swift"
+            timestampString = "550034656.301964"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "selectedPoi"
+            landmarkType = "24">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
