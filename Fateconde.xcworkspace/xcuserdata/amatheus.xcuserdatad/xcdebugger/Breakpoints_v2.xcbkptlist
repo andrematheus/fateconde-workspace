@@ -232,11 +232,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/EmbeddedViewController.swift"
-            timestampString = "550374146.044138"
+            timestampString = "550375428.131689"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "118"
-            endingLineNumber = "118"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
             landmarkName = "hidePoiInfo()"
             landmarkType = "7">
          </BreakpointContent>
