@@ -104,7 +104,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/Mapping/MapboxViewController.swift"
-            timestampString = "550637925.316409"
+            timestampString = "550639383.4924999"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "209"
@@ -120,7 +120,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/Mapping/MapboxViewController.swift"
-            timestampString = "550637925.316527"
+            timestampString = "550639383.492571"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "199"
@@ -232,7 +232,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/EmbeddedViewController.swift"
-            timestampString = "550637925.3166749"
+            timestampString = "550639383.4927289"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "142"
@@ -264,7 +264,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/BottomSheets/CreateRouteViewController.swift"
-            timestampString = "550637925.316757"
+            timestampString = "550638887.4124039"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "45"
@@ -280,7 +280,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/BottomSheets/RouteStepsViewController.swift"
-            timestampString = "550637925.316816"
+            timestampString = "550639383.492836"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "76"
@@ -292,11 +292,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "Yes"
+            shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/EmbeddedViewController.swift"
-            timestampString = "550637925.316877"
+            timestampString = "550639383.4929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "64"
@@ -312,12 +312,28 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Fateconde/Fateconde/BottomSheets/RouteStepsViewController.swift"
-            timestampString = "550637925.3169301"
+            timestampString = "550639383.492957"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "35"
             endingLineNumber = "35"
             landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Fateconde/Fateconde/BottomSheets/RouteInfoViewController.swift"
+            timestampString = "550639383.493014"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "closed()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
